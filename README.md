@@ -1,5 +1,5 @@
 # hello-world-
-Just my first repository
+
 Hi Humans ! 
 
 Daniel here, I like Mode.js and Coffeescript (that's what im made off!). 
